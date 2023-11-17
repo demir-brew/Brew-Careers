@@ -12,7 +12,7 @@
     "tsconfig": "*",
     "turbo": "latest"
   },
-  "name": "brew-careers",
+  "name": "brew-careers-mono-repo",
   "packageManager": "yarn@4.0.2",
   "workspaces": [
     "apps/*",
