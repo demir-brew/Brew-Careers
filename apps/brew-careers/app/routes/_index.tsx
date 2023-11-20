@@ -74,7 +74,7 @@ export default function Home() {
                     </ul>
                   </div>
                 </div>
-                <button
+                {/* <button
                   className="navbar-toggle"
                   data-target="#navbar-collapse"
                   data-toggle="collapse"
@@ -84,9 +84,9 @@ export default function Home() {
                   <span className="icon-bar"></span>
                   <span className="icon-bar"></span>
                   <span className="icon-bar"></span>
-                </button>
+                </button> */}
 
-                <div className="collapse navbar-collapse" id="navbar-collapse">
+                {/* <div className="collapse navbar-collapse" id="navbar-collapse">
                   <ul className="menu nav navbar-nav">
                     <li>
                       <a href="/">Home</a>
@@ -96,7 +96,7 @@ export default function Home() {
                       <a href="/#section-112289">Jobs</a>
                     </li>
                   </ul>
-                </div>
+                </div> */}
               </div>
             </nav>
             <div className="content container">
@@ -412,12 +412,12 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className="container">
+      {/* <footer className="container">
         <a
           target="_blank"
           className="footer-logo"
           rel="noopener"
-          href="https://recruitee.com"
+          href="https://jobs.brewww.com/"
         >
           <span>
             <span
@@ -429,7 +429,7 @@ export default function Home() {
           </span>
           <img src="images/logo__horizontal-95300540fb91da99f96dab9a76748ac00a0b39a5f02d432d373259194112dabb.svg" />
         </a>
-      </footer>
+      </footer> */}
     </body>
   );
 }
